@@ -1,1 +1,1 @@
-#Aplikasi Gudang
+Aplikasi Gudang

@@ -1,0 +1,5 @@
+Laporan Transaksi Keuangan
+==========================
+ID         Nama Barang          Jumlah     Tipe            Harga Satuan Total Harga Tanggal         Keterangan          
+1          So Klin              12         masuk           12000.0    144000.0   2025-01-03      Advc                
+2          So Klin liquid       12         keluar          5000.0     60000.0    2025-01-04      ini adalah sabun cuci

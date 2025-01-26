@@ -1,0 +1,5 @@
+Laporan Barang Keluar
+====================
+ID Barang  Nama Barang          Jumlah     Tanggal Keluar  Keterangan          
+1          Rexona Men           100        2025-01-11      Barang telah dibeli 
+2          Nivea Men            10         2025-01-24      barang sudah dibeli 

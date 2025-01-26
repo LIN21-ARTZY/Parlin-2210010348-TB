@@ -1,0 +1,8 @@
+Laporan Barang Masuk
+====================
+ID Barang  Nama Barang          Jumlah     Tanggal Masuk   Keterangan          
+1          Sabun Daia           12         2025-01-04      ini adalah sabun yang digunakan untuk mencuci pakaian
+2          Sabun Daia           12         2025-01-04      ini adalah sabun    
+3          Sabun Daia           12         2025-01-04      Ini adalah sabun    
+6          Rexona Women         12         2025-01-10      Ini adalah deodorant
+7          Sabun Lifebuoy Wash  12         2025-01-14      Ini adalah sabun mandi
